@@ -6,7 +6,9 @@ In this POC computer vision and machine learning are used to distinguish lung x-
 The dataset downloaded from kaggle has 
 
 Set: train   normal images: 1575  pneumonia images:3875
+
 Set: val   normal images: 8  pneumonia images:8
+
 Set: test   normal images: 234  pneumonia images:390
 
 ![image](https://user-images.githubusercontent.com/107737679/190056638-fc2f2692-70ba-4ac2-ab85-a7f5a23db3c0.png)
