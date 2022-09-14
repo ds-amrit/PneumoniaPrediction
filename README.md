@@ -1,7 +1,10 @@
 # PneumoniaPrediction
 GOAL: Given a lung x-ray detect wheather it has pneumonia or its healthy. 
+
 In this POC computer vision and machine learning are used to distinguish lung x-rays.
+
 The dataset downloaded from kaggle has 
+
 Set: train   normal images: 1575  pneumonia images:3875
 Set: val   normal images: 8  pneumonia images:8
 Set: test   normal images: 234  pneumonia images:390
