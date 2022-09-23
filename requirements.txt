@@ -8,3 +8,5 @@ seaborn
 matplotlib
 sklearn
 imutils
+werkzeug
+gunicorn
