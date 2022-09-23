@@ -20,7 +20,21 @@ In the training dataset the target variable distribution looks like:
 
 The machine learning models used for prediction:
 
-1. K- Neighbours Classifier
+1. K- Neighbours Classifier: 
+ 
+    Accuracy of KNN model(Train): 91.56%
+    
+    ![image](https://user-images.githubusercontent.com/107737679/192058981-fc217e64-28bd-4fa9-880a-fa5be20fd787.png)
+
+
+2. Logistic Regression:
+ 
+   Accuracy of Logistic Regression Model (Train) =93.54%
+   Accuracy of Logistic Regression Model (Test) =88.14%
+   
+   ![image](https://user-images.githubusercontent.com/107737679/192059585-e3ababce-2c9b-4fc4-83a1-f05b5bb74ccc.png)
+
+Finally, Logistic regression model is dumped to predict the Lung condition in the Flask app.
 
 
 
