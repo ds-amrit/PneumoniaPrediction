@@ -30,9 +30,11 @@ The machine learning models used for prediction:
 2. Logistic Regression:
  
    Accuracy of Logistic Regression Model (Train) =93.54%
-   Accuracy of Logistic Regression Model (Test) =88.14%
+  
    
    ![image](https://user-images.githubusercontent.com/107737679/192059585-e3ababce-2c9b-4fc4-83a1-f05b5bb74ccc.png)
+
+ Accuracy of Logistic Regression Model (Test) =88.14%
 
 Finally, Logistic regression model is dumped to predict the Lung condition in the Flask app.
 
