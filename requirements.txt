@@ -5,7 +5,6 @@ itsdangerous
 Jinja2
 pickle5
 flask
-os-sys
 opencv-python
 seaborn
 matplotlib
