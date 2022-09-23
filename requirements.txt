@@ -3,7 +3,7 @@ pandas
 pickle5
 flask
 os-sys
-cv2
+opencv-python
 seaborn
 matplotlib
 sklearn
