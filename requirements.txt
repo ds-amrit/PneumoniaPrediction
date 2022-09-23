@@ -2,7 +2,7 @@ numpy
 pandas
 pickle5
 flask
-os
+os-sys
 cv2
 seaborn
 matplotlib
