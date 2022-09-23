@@ -1,0 +1,10 @@
+numpy
+pandas
+pickle
+flask
+os
+cv2
+seaborn
+matplotlib
+sklearn
+imutils
